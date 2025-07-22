@@ -8,7 +8,7 @@ export const Clients = () => {
         Millions run on Notion every day
       </h2>
       <p className="opacity-70 mt-2">
-        Powering the world`s best teams, from next-generation startups to
+        Powering the world’s best teams, from next-generation startups to
         established enterprises.
       </p>
 
